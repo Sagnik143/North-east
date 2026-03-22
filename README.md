@@ -1,2 +1,3 @@
 # North-east
-My app using replit
+a project in my hackathon
+
